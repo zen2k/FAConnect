@@ -1,2 +1,4 @@
 # FAConnect
-Voice based updates for advisors
+Voice based updates for advisors.
+
+New app
